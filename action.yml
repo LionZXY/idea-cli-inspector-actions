@@ -5,3 +5,6 @@ author: 'lionzxy'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'check-square'
+  color: 'green'
