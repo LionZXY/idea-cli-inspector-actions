@@ -1,0 +1,7 @@
+name: 'Idea CLI Inspector'
+description: 'This action can be used to run idea-cli-inspector'
+author: 'lionzxy'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
